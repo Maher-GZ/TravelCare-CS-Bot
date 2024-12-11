@@ -45,11 +45,6 @@ To get started, refer to the notebook [LangChain Customer Support Tutorial](http
    export OPENAI_API_KEY="your-api-key"
    ```
 
-4. **Run the Notebook**:
-   To interact with the agent, you can execute the notebook provided in the project:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Usage
 
